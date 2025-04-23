@@ -8,3 +8,5 @@
 🧩 Lightweight inference using CTransformers for CPU/GPU-optimized model loading.
 
 📊 Domain-specific training for investment banking workflows, financial documents, and reports.
+
+credit - the bloak ,you will find the model on the hugging face and data you ca choose own, Note: put index2.html file in templates
